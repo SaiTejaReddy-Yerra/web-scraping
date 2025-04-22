@@ -20,10 +20,4 @@ This repository contains several web scraping projects built using Python, Beaut
 
 - `requests`
 - `BeautifulSoup`
-- `Selenium`
 - `pandas`
-- `time`
-
-## 🚀 Getting Started
-
-1. Clone the repo  
